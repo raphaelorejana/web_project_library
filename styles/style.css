@@ -349,13 +349,13 @@
   display: flex;
   flex-direction: column;
   row-gap: 20px;
-  margin-right: 80px;
 }
 
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
   row-gap: 20px;
+  margin-left: 80px;
 }
 
 .footer__logo {
@@ -365,7 +365,7 @@
 
 .footer__column-heading {
   font-size: 16px;
-  margin: 0;
+  margin-bottom: 0;
 }
 
 .footer__list {
